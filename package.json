@@ -1,0 +1,24 @@
+{
+  "name": "JSTests",
+  "version": "1.0.0",
+  "description": "just for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKuzich/JSTests.git"
+  },
+  "keywords": [],
+  "author": "Mykhailo Kuzich <timmkedth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKuzich/JSTests/issues"
+  },
+  "homepage": "https://github.com/MKuzich/JSTests#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
