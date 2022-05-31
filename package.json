@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/MKuzich/JSTests#readme",
   "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "shortid": "^2.2.16",
     "validator": "^13.7.0"
   }
 }
